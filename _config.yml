@@ -11,17 +11,17 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Seungho Min
 tagline: Full Stack Developer
-about-description: # Add Discription
+about-description: 개발자 지망생 # Add Discription
 pic: msh.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
 email: msh907@naver.com # Add your Email address
 phone: 010 4964 7132 # Add your Phone number
-# website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
+website: Seungh-Min.pw # Add your website, do not add http://
+# linkedin: # Add your Linkedin handle
 github: Seungho-Min # Add your Github handle
 # twitter: '@artemsheludko_' # Add your Twitter handle
-
+instagram: 'soho._.02'
 # Tracker
 analytics:
 
